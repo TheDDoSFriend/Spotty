@@ -53,7 +53,7 @@ public class GRBCommand implements Command {
 
 			event.getTextChannel()
 					.sendMessage(
-							"@everyone This Discord server has violated the rules of Spotty Bot. This has resulted in it being banned from using Spotty Bot on this Discord server. Respect to <@200858904303763465> & <@204572389307187200>")
+							"@everyone This Discord server has violated the rules of Spotty Bot. This has resulted in it being banned from using Spotty Bot on this Discord server. Respect to <@200858904303763465>")
 					.pin(); // Sets a message to everyone and pins it.
 			event.getGuild().getManager().leave(); // leaves the server
 		}
