@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="depends/JDA-withDependencies-2.2.1_353.jar" sourcepath="depends/JDA-2.2.1_353-sources.jar"/>
+	<classpathentry kind="lib" path="depends/commons-io-2.5.jar" sourcepath="depends/commons-io-2.5-src.zip"/>
+	<classpathentry kind="lib" path="depends/jda-player-0.2.2_22-withDepdendencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
